@@ -25,10 +25,10 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "8597520496:AAGExrrSQCrhBazbFw3f0majl9AOwEH8Rmc"
+TOKEN = "8550036456:AAEdAEA508CjdapreKoGUjXj9mGMXu_E_HM"
 
 OPERATORS = {
-    7751958299: "Ростік Лютий",
+    User ID:  7968501682: "Тест Тестович",
 }
 
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML')
@@ -426,4 +426,5 @@ if __name__ == '__main__':
 
 
 #  by Magomed
+
 
